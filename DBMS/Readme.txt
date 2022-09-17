@@ -8,5 +8,5 @@ Password: Committee@1
 Credential for user panel : 
 
 Username: greatrifat@gmail.com
-Password : Test@123
+Password : Committee@1
 
